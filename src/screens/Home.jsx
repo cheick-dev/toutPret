@@ -7,7 +7,7 @@ import NavBar from '../components/NavBar'
 const HomeScreen = () => {
 	return (
 		<div className='home-div'>
-			<NavBar />
+			{/* <NavBar /> */}
 			<div className="logo">
 				<img src="logoZ.png" alt="Logo" />
 			</div>
